@@ -15,7 +15,7 @@
   "LOCATION": "eastus2",
   "LOGGING_RESOURCE_GROUP": "rg-ghnn-logging",
   "MANAGEMENT_SUBSCRIPTION_ID": "957e67ae-02e3-477d-bacc-9b11fe539641",
-  "NETWORK_TYPE": "hubNetworking",
+  "NETWORK_TYPE": "none",
   "MANAGEMENT_GROUP_ID": "ghnn",
   "PREFIX": "ghnn",
   "RELEASE_VERSION": "v0.20.1",
