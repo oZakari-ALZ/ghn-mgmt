@@ -38,10 +38,6 @@ on:
         description: 'Run Steps: Subscription Placement'
         type: boolean
         default: true
-      connectivity:
-        description: 'Run Steps: Connectivity'
-        type: boolean
-        default: true
       destroy:
         description: '[DANGER!] Destroy? [DANGER!]'
         default: false
@@ -65,4 +61,3 @@ jobs:
       management_group_diagnostic_settings: ${{ inputs.management_group_diagnostic_settings }}
       policy_assignments: ${{ inputs.policy_assignments }}
       subscription_placement: ${{ inputs.subscription_placement }}
-      connectivity_resource_group: ${{ inputs.connectivity }}
