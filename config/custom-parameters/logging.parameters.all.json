@@ -35,7 +35,7 @@
       "value": "alz-umi-identity"
     },
     "parLogAnalyticsWorkspaceLinkAutomationAccount": {
-      "value": true
+      "value": false
     },
     "parAutomationAccountName": {
       "value": "alz-automation-account"
@@ -44,7 +44,7 @@
       "value": "eastus2"
     },
     "parAutomationAccountUseManagedIdentity": {
-      "value": true
+      "value": false
     },
     "parAutomationAccountPublicNetworkAccess": {
       "value": true
