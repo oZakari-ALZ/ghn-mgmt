@@ -6,7 +6,7 @@
       "value": "ghnn"
     },
     "parTelemetryOptOut": {
-      "value": false
+      "value": true
     }
   }
 }
